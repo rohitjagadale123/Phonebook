@@ -13,6 +13,7 @@ Features:
 Convenience meets efficiency with Phonebook Pro! All your contacts are saved to 'phonebook.txt' for seamless data storage. Our user-friendly interface with gotoxy() ensures a smooth experience.
 
 Manage your contacts like a pro and showcase your C skills. Upload Phonebook Pro to your GitHub account and impress employers with this project during your placement journey. Let Phonebook Pro help you stand out from the crowd! 🚀"
+![Screenshot 2023-07-26 160457](https://github.com/rohitjagadale123/Phonebook/assets/126160382/f543b975-8d91-47ca-bb02-9e412543d157)
 
 
 
